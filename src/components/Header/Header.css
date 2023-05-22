@@ -1,0 +1,19 @@
+
+   
+.nav  {
+      background-color: #c8acac;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+      text-decoration: none;
+      
+      
+      
+    }
+    a:link {
+        text-decoration: none;
+      }
+      
+    h1 {
+      margin: 0;
+    }
